@@ -8,6 +8,8 @@
 
 ## What is Docrunch?
 
+### Video Demo: https://youtu.be/uE_wNd38OFY
+
 When you use AI coding assistants (like Claude, Gemini CLI, or Codex), they often lose track of your project's architecture, patterns, and conventions between sessions. You end up repeatedly explaining the same things, and AI-generated code becomes inconsistent with your established patterns.
 
 **Docrunch fixes this by:**

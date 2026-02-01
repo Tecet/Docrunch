@@ -370,6 +370,20 @@ Stay informed:
 
 ---
 
+## Included Documents
+
+- **Docrunch Infrastructure Implementation Roadmap — Transitioning to Hosted Production**: [Docrunch Infrastructure Implementation Roadmap — Transitioning to Hosted Production](./Docrunch%20Infrastructure%20Implementation%20Roadmap_%20Transitioning%20to%20Hosted%20Production.md) — Roadmap for moving Docrunch from a local Docker-based development setup to a production-hosted architecture; covers secure credential orchestration, transport boundaries (MCP/REST), production storage and orchestration (Postgres, LightRAG, Temporal), CLI bridge proxying, and observability/rollback procedures.
+
+- **Docrunch: Repository Intelligence & AI Orchestration System — Briefing Document**: [Docrunch: Repository Intelligence & AI Orchestration System — Briefing Document](./Docrunch_%20Repository%20Intelligence%20%26%20AI%20Orchestration%20System%20Briefing%20Document.md) — Executive summary and project status (milestones, architecture overview, specialist roles, storage/outbox sync model, and visualization roadmap); useful for onboarding stakeholders and tracking progress.
+
+- **Docrunch Repository Intelligence System (PDF)**: [Docrunch_Repository_Intelligence_System.pdf](./Docrunch_Repository_Intelligence_System.pdf) — Printable/packaged PDF version of the system briefing and overview for distribution or offline review.
+
+- **Info.png**: [Info.png](./Info.png) — Project overview / visual asset (logo/diagram) used in documentation and presentations.
+
+- **Technical Specification: Hybrid Persistence and Orchestration Architecture**: [Technical Specification: Hybrid Persistence and Orchestration Architecture](./Technical%20Specification_%20Hybrid%20Persistence%20and%20Orchestration%20Architecture.md) — Detailed technical specification describing the hybrid persistence model (Postgres as source-of-truth, LightRAG for semantic graph, Markdown docs), the Outbox Pattern for sync, and dual-layer job orchestration with Redis and Temporal.
+
+---
+
 ## Architecture
 
 ```mermaid
